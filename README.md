@@ -31,7 +31,7 @@ To develop a deep learning-based image classification model that can accurately 
 1. **Clone the repository**
    ```bash
    git clone https://github.com/Ashmita120/Plant-Disease-Detection-using-CNN.git
-   cd plant-disease-detection
+   cd Plant-Disease-Detection-using-CNN
 
 2. **Launch the notebook**
    ```bash
